@@ -19,7 +19,7 @@
 
 ## Additional USB to UART Bridge VCP Drivers
 When the microcontroller is connected to the laptop or PC, Arduino IDE may not detect any connected port. One possible reason is the lack of supported USB driver, especially on Windows. The driver that support the microcontrollers with CP210x chipset can be found in the liink below.
-https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
+- https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
 
 
 ## More details in this article below
