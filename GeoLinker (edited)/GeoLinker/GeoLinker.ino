@@ -86,7 +86,7 @@ HardwareSerial gpsSerial(1);  // Using Serial1
 //                   NETWORK CONFIGURATION
 // ==================================================================
 /*-------------------------- For WiFi ------------------------------*/
-const char* ssid = "test";       // Your network name
+const char* ssid = "양인계 (楊仁季)";       // Your network name
 const char* password = "8fe8vk8s59dmrer"; // Your network password
 
 /*-------------------------- For GSM ------------------------------*/
