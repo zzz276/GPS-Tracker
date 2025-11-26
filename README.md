@@ -28,6 +28,6 @@ When the microcontroller is connected to the laptop or PC, Arduino IDE may not d
 https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
 
 
-## More details in this article below
+## More details in this article by CircuitDigest below
 
 https://circuitdigest.com/microcontroller-projects/simple-gps-tracker-using-esp32-visualize-data-on-map
